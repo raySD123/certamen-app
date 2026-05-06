@@ -1,0 +1,20 @@
+.App {
+  
+}
+
+.buttonBar {
+    margin: 1vw;
+    gap: 0.4vw;
+}
+
+.button {
+    margin-right: 0.4vw;
+    background-color: lightblue;
+    padding: 8px;
+    border: 3px solid black;
+    border-radius: 7px;
+}
+
+.answerBar {
+    margin: 1vw;
+}
