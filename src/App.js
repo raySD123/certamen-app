@@ -54,6 +54,9 @@ function App() {
             if (answerText.toLowerCase() === sampleQuestions[currentQuestion][1].toLowerCase()) { 
               setAnswerCorrect(true);
             }
+            else {
+              setAnswerCorrect(false);
+            }
           }}>Check</button>
         </div>
       )}
