@@ -50,13 +50,13 @@ function App() {
             style={{ marginRight: "0.4vw", width: "20vw" }}
           />
           <button className="button" style={{ backgroundColor: "lightgreen" }} onClick={() => {
-            setQuestionOver(true);
             if (answerText.toLowerCase() === sampleQuestions[currentQuestion][1].toLowerCase()) { 
               setAnswerCorrect(true);
             }
             else {
               setAnswerCorrect(false);
             }
+            setQuestionOver(true);
           }}>Check</button>
         </div>
       )}
