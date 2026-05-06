@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/certamen-app/static/css/main.a8fcc8b5.css",
+    "main.js": "/certamen-app/static/js/main.0c5edd15.js",
+    "static/js/453.562b5795.chunk.js": "/certamen-app/static/js/453.562b5795.chunk.js",
+    "index.html": "/certamen-app/index.html",
+    "main.a8fcc8b5.css.map": "/certamen-app/static/css/main.a8fcc8b5.css.map",
+    "main.0c5edd15.js.map": "/certamen-app/static/js/main.0c5edd15.js.map",
+    "453.562b5795.chunk.js.map": "/certamen-app/static/js/453.562b5795.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8fcc8b5.css",
+    "static/js/main.0c5edd15.js"
+  ]
+}
